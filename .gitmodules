@@ -1,0 +1,3 @@
+[submodule "innerSubmodule"]
+	path = innerSubmodule
+	url = https://github.com/lorenzokyne/innerSubmodule
